@@ -1,6 +1,6 @@
-# 📜 Certificates - Data Science & Analytics
+# 📜 Certificates - Data Analytics, Data Science & Data Engineering
 
-Welcome! This repository contains certificates I've earned through self-directed learning in data science, analytics, engineering and related technologies. The courses were completed across platforms such as **DataCamp**, **Coursera**, and **Codecademy**, as part of my ongoing commitment to continuous professional development and upskilling in the data field.
+Welcome! This repository contains certificates I've earned through self-directed learning in data science, analytics, engineering and other technologies. The courses were completed across platforms such as **DataCamp**, **Coursera**, and **Codecademy**, as part of my ongoing commitment to continuous professional development and upskilling in the data field.
 
 ## 🎯 Focus Areas
 
